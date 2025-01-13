@@ -1,27 +1,29 @@
-# Hello, I'm Máira Senna! 👋
+# 💫 About Me:
+## Hello there, I'm Máira! 👋<br><br>
+I’m currently transitioning from a Scrum Master role to a Junior Full-Stack Web Developer. My passion lies in constantly learning and evolving, combining my IT background with modern web development practices to create innovative solutions.<br><br>
 
-I am a Junior Full-Stack Web Developer, passionate about creating innovative technological solutions. I am constantly learning, connecting my experience in IT with modern web development.
+# 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mairasenna)
 
-## 🔧 Technologies and Tools
+# 🚀 Portfolio:
+Check out my personal portfolio: [Máira Senna](https://portifolio-maira-66c2d59ef593.herokuapp.com/)
 
-![HTML5](https://img.shields.io/badge/-HTML5-FF5733?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-2979FF?style=flat-square&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFCC00?style=flat-square&logo=javascript&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=ffffff)
-![Ruby](https://img.shields.io/badge/-Ruby-CC0000?style=flat-square&logo=ruby&logoColor=ffffff)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-9B6EC4?style=flat-square&logo=ruby-on-rails&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 
-## 🌱 What I'm currently learning
-- Ruby on Rails
-- CSS
-- Design and Usability
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=msma87&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=msma87&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=msma87&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📈 GitHub Stats
-![Máira's GitHub stats](https://github-readme-stats.vercel.app/api?username=msma87&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=transparent)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=msma87&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 💬 Let's talk!
-- [LinkedIn](https://www.linkedin.com/in/mairasenna/)
-- [Portifolio](https://portifolio-maira-66c2d59ef593.herokuapp.com/)
-- [E-mail](mairasenna@gmail.com)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=msma87&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=msma87&icon=0&color=0)](https://visitcount.itsvg.in)
+
+>
