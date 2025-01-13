@@ -19,7 +19,7 @@ I am a Junior Full-Stack Web Developer, passionate about creating innovative tec
 - Design and Usability
 
 ## 📈 GitHub Stats
-![Máira's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairasenna&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=transparent)
+![Máira's GitHub stats](https://github-readme-stats.vercel.app/api?username=msma87&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=transparent)
 
 ## 💬 Let's talk!
 - LinkedIn: [Máira Senna](https://www.linkedin.com/in/mairasenna/)
